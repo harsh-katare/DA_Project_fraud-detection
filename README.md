@@ -207,13 +207,6 @@ fraud-detection/
 ├── requirements.txt
 ├── LICENSE
 └── README_ES.md                      # Spanish version
-```
-
----
-
-[![GitHub](https://img.shields.io/badge/GitHub-AndyNavarro77-black?logo=github)](https://github.com/AndyNavarro77)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/andr%C3%A9s-navarro77/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?logo=netlify)](https://andres-navarro-portfolio.netlify.app/)
 
 ---
 
