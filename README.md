@@ -210,4 +210,13 @@ fraud-detection/
 
 ---
 
+## 👤 Author
+
+**Harsh Katare**
+Data Analyst · Fintech & Trading Analytics · SQL · Python · Power BI
+
+[![GitHub](https://img.shields.io/badge/GitHub-harsh--katare-black?logo=github)](https://github.com/harsh-katare)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/harsh-katare-66738b376)
+---
+
 *Built to demonstrate production-grade fraud detection capabilities — class imbalance handling, multi-model comparison, business-driven threshold optimization, and operational dashboard design — skills directly applicable to fintech, banking, e-commerce, and any data-driven risk environment.*
