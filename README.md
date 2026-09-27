@@ -213,7 +213,7 @@ fraud-detection/
 ## 👤 Author
 
 **Harsh Katare**
-Data Analyst · Fintech & Trading Analytics · SQL · Python · Power BI
+Data Analyst · Excel · SQL · Python · Power BI · Gen AI
 
 ---
 
